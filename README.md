@@ -91,7 +91,7 @@ print('MAE= ',mae)
 
 <img width="876" height="586" alt="image" src="https://github.com/user-attachments/assets/8a6fcb54-e84d-4aff-b495-acebb5f525a8" />
 
-## PREDICTING X AND Y VALUES:
+## PREDICTION VALUES OF X AND Y VALUES:
 
 <img width="730" height="65" alt="image" src="https://github.com/user-attachments/assets/e771cc88-3c15-4f3a-ae20-317053723a03" />
 
