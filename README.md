@@ -8,10 +8,12 @@ To write a program to predict the marks scored by a student using the simple lin
 2. Anaconda – Python 3.7 Installation / Jupyter notebook
 
 ## Algorithm
-1. 
-2. 
-3. 
-4. 
+1. Import the standard Libraries.
+2. Set variables for assigning dataset values.
+3. Import linear regression from sklearn.
+4. Assign the points for representing in the graph.
+5. Predict the regression for marks by using the representation of the graph.
+6. Compare the graphs and hence we obtained the linear regression for the given datas.
 
 ## Program:
 ```
@@ -68,12 +70,34 @@ print('MAE= ',mae)
 ```
 
 ## Output:
-
+## TRAINING SET:
 <img width="700" height="563" alt="image" src="https://github.com/user-attachments/assets/f36be434-6056-42d2-a2ee-9dee138573be" />
 
-
+## TESTING SET
 <img width="699" height="569" alt="image" src="https://github.com/user-attachments/assets/fe4535f2-471e-4b7b-acfd-1f7aae77d525" />
 
+## DATASET:
+
+<img width="260" height="567" alt="image" src="https://github.com/user-attachments/assets/6db143d0-fe22-49ab-8943-fefb0f8e1395" />
+
+## HEAD VALUES:
+
+<img width="278" height="130" alt="image" src="https://github.com/user-attachments/assets/8a4854c2-9bed-4fc8-8dbb-038c19a2814a" />
+
+## TAIL VALUES:
+<img width="259" height="128" alt="image" src="https://github.com/user-attachments/assets/1e1ac132-3bc2-4d25-b69f-ca8bf26a2f67" />
+
+## X AND Y VALUES:
+
+<img width="876" height="586" alt="image" src="https://github.com/user-attachments/assets/8a6fcb54-e84d-4aff-b495-acebb5f525a8" />
+
+## PREDICTING X AND Y VALUES:
+
+<img width="730" height="65" alt="image" src="https://github.com/user-attachments/assets/e771cc88-3c15-4f3a-ae20-317053723a03" />
+
+## MSE,MAE,AND RMSE:
+
+<img width="274" height="49" alt="image" src="https://github.com/user-attachments/assets/d4213bb6-3a55-464f-a175-db7901c4b4fe" />
 
 
 
